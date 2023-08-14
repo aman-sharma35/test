@@ -1,5 +1,0 @@
-{{#user}
-Name: Aman Sharma
-Skills: Html, Css, JavaScript
-Email: amansharma7235@gmail.com
-{{/user}}
